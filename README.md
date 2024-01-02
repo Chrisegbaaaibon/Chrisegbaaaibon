@@ -1,11 +1,11 @@
 <p align="center">
   <h1 align='center'>Hi there 👋🏾, I'm Christopher Egbaaibon</h1> 
   <p align="center"> I am a Software Developer focused on ( Node/Express, React, TypeScript/NestJs, Golang)</p>
-  <p align='center'>Currently working 👨‍🍳 on <a target="_blank" href="https://www.npmjs.com/package/owl-factory"> OwlJs</a>, an express.js library for making software development easier by taking care of all the unneccessary tasks developers have to worry about.</p>
+  <p align='center'>Currently working 👨‍🍳 on <a target="_blank" href="https://dolphjs.github.io/website/"> DolphJs</a>, an express.js library for making software development easier by taking care of all the unneccessary tasks developers have to worry about.</p>
 </p>
 
 <p align='center'>
-<a href="https://wa.me/2348164393176?text=Hello Chris" target="_blank">
+<a href="https://wa.me/14167713176?text=Hello Chris" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://twitter.com/Ghostcod3r_" target="_blank">
@@ -17,7 +17,6 @@
 <a href="mailto:christopheregbaaibon@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <img src="https://gpvc.arturio.dev/chrisegbaaaibon" />
   </a>&nbsp;&nbsp;
   <a href="https://wakatime.com/@71012fa4-1b94-4222-862a-ae7462bd8403"><img src="https://wakatime.com/badge/user/71012fa4-1b94-4222-862a-ae7462bd8403.svg" alt="Total time coded since Apr 1 2022" /></a>
   
